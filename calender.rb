@@ -42,5 +42,5 @@ class Calendar
     end
 end
 
-# print Calendar.output
-p Calendar.generate
+print Calendar.output
+# p Calendar.generate
